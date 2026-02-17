@@ -1,10 +1,11 @@
-Valorant Match Tracker
+Valorant Match Tracker:
 
 A structured Python console application for tracking Valorant match performance, calculating advanced statistics, and visualising KD trends over time.
 
 This project focuses on clean menu-driven architecture, data persistence using CSV, and performance analysis.
 
-Overview
+
+Overview:
 
 The Valorant Match Tracker allows users to:
 
@@ -26,7 +27,8 @@ Edit and delete match records safely
 
 The application is designed with modular functions to keep logic readable, reusable, and maintainable.
 
-Technologies Used
+
+Technologies Used:
 
 Python 3
 
@@ -45,13 +47,15 @@ valorant-match-tracker/
 
 The matches.csv file is automatically created when the first match is added.
 
-How to Run
+
+How to Run:
 
 Install Python 3.x
 
 Install required dependency:
 
 pip install matplotlib
+
 
 
 Run the application:
@@ -61,7 +65,8 @@ python main.py
 
 Follow the on-screen menu options.
 
-Features
+
+Features:
 Match Management
 
 Add new matches
@@ -116,7 +121,8 @@ Modular function structure for maintainability
 
 Structured menu-driven application flow
 
-Lessons Learned
+
+Lessons Learned:
 
 This project strengthened my understanding of:
 
@@ -134,7 +140,8 @@ Designing user-friendly console applications
 
 It serves as a foundation for transitioning into database-driven and API-based backend systems.
 
-Future Improvements
+
+Future Improvements:
 
 Replace CSV storage with SQL database
 
